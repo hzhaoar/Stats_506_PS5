@@ -1,0 +1,10 @@
+---
+title: "Stats_506_PS5"
+author: "Haoyu, Zhao"
+format: pdf
+editor: visual
+---
+
+## Problem 1
+
+
